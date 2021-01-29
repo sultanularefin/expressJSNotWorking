@@ -1,0 +1,10 @@
+{
+  "verbose": true,
+  "ignore": ["test/*", "docs/*","*.test.js", "fixtures/*"],
+  "delay": "2500",
+  "execMap": {
+    "pde": "processing --sketch={{pwd}} --run"
+  }
+}
+
+
